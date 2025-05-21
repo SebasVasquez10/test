@@ -1,0 +1,5 @@
+<Response>
+<Say voice="woman">Mensaje de prueba.</Say>
+<Pause length="1"/>
+<Say voice="woman">Desde GitHub.</Say>
+</Response>
